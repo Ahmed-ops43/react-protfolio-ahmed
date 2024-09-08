@@ -17,7 +17,6 @@ const Navbar = () => {
             <FaLinkedin/>
             <FaGithub/>
             <FaInstagram/>
-            <FaFacebook/>
         </div>
     </div>
   )
